@@ -6,3 +6,9 @@ Fast deploy an static-web on AWS
 2. https://github.com/nginx-proxy/acme-companion/issues/102
 
 Deploy a static-web with auto get ssl domain ---> aws services by Terraform !!!
+
+```
+Terraform init
+Terraform apply -auto-approve 
+```
+Enjoy !
